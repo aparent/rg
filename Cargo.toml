@@ -1,0 +1,8 @@
+[package]
+
+name = "rg"
+version = "0.0.1"
+authors = [ "Alex Parent <alexparent@gmail.com>" ]
+
+[dependencies]
+tcod = "*"

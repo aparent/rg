@@ -1,0 +1,3 @@
+struct ItemType {
+    name : String,
+}
